@@ -11,7 +11,7 @@
                         made with <3
 ```
 
-udon: A simple tool that helps to find domains based on the Google Analytics ID - it use several 3rd party sources.
+udon: A simple tool that helps to find domains based on the Google Analytics ID.
 
 <p align="left">
 <a href="https://goreportcard.com/report/github.com/dhn/udon/"><img src="https://goreportcard.com/badge/github.com/dhn/udon"></a>
