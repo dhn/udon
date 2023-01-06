@@ -71,7 +71,7 @@ Usage of udon:
 {"domain":"conmamanan.tk","source":"osint.sh"}
 ```
 
-To find UA id's following simple `nuclei` template can be used:
+To find UA id's following simple `nuclei` [1] template can be used:
 
 ```yaml
 id: google-analytics-id
@@ -130,3 +130,7 @@ Creators aren't in charge of any and have/has no responsibility for any kind of:
 - Malicious act, capable of causing damage to third parties, promoted or distributed by third parties or the user through this tool.
 
 This disclaimer was shameless stolen from: https://github.com/projectdiscovery/subfinder/blob/master/DISCLAIMER.md
+
+## Reference
+
+- [1] https://github.com/projectdiscovery/nuclei
